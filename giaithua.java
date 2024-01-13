@@ -10,6 +10,9 @@ public class giaithua {
             giaithua =  gt.nextInt();
             
         }
+        while (int n == giaithua){
+            
+        }
         
     }
 }
