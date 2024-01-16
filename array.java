@@ -8,7 +8,7 @@ public class array{
             mang1[i]= scanner.nextLine();
         }
         for(int i =0;i<10;i++){
-            System.out.println("------phan tu thu " + i + "cua mang la"+mang1[i]);
+            System.out.println("------phan tu thu " + i + "cua mang la: "+mang1[i]);
             
         }
     }
