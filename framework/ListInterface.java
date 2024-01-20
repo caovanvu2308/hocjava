@@ -17,7 +17,6 @@ public class ListInterface {
 
 
 
-
         for(int i =0 ; i<listString.size();i++){
             System.out.println(listString.get(1));
         }
