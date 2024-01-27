@@ -7,7 +7,7 @@ public class nhapvao{
         String ten;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap ten: ");
-        ten = scanner.nextInt();
+        ten = scanner.nextLine();
         System.out.println("Ten cua ban la : "+ ten);
     }
 }
